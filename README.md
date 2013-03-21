@@ -4,8 +4,8 @@ jQuey-hover-caption
 Modo de uso:
 
 - Marcação html
-  <!-- É preciso atribuir a classe "container-caption" e então todos seus elementos filhos que são img e tem um 
-  title definido receberão as alterações -->
+  É preciso atribuir a classe "container-caption" e então todos seus elementos filhos que são img e tem um 
+  title definido receberão as alterações
 
   <section class="container-caption"> 
     <img class="img-caption">
