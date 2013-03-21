@@ -1,0 +1,30 @@
+/* Folha de estilo do plugin jQuery hover caption */
+.row {
+  position: absolute;
+	width: 90%;
+    height: auto;
+	margin: 0% 5% 0% 5%;
+}
+
+.container-caption {
+	position: absolute;
+	margin: 0px 0px 0px 0px;
+	min-width: 10px;
+	width: auto;
+	height: auto;
+}
+
+img.img-caption {
+	margin: 0px 0px 0px 0px;
+	z-index: 10;
+}
+
+span.caption {
+	margin: 0px 0px 0px 0px;
+	z-index: 20;
+	bottom: 0px;
+}
+
+.center-caption {
+    position: relative;
+}
