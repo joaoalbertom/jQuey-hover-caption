@@ -17,5 +17,4 @@ Modo de uso:
 > Para chamar o metodo no seu documento
   
   $(".container-caption").jcaption({
-    /* Ainda não esta pronto, portanto as proprieades do objeto ainda não estão disponiveis :/ */
   });
